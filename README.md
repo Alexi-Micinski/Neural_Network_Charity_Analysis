@@ -22,13 +22,22 @@ The provided data set contains more than 34,000 organizations that have received
 
 First, using Pandas and the Scikit-Learn’s StandardScaler(), the dataset was preprocessed in order to compile, train, and evaluate the neural network model later on. Next, using TensorFlow, a neural network, or deep learning model, was designed to create a binary classification model that can predict if an organization will be successful based on the features in the dataset. Then the binary classification model was compiled, trained, and evaluated on it's loss and accuracy. Last, updates to the model's neurons, layers, activation fuctions, and epochs were adjusted in attempt to achieve the target model performance.
 
-Data Preprocessing
-- What variable(s) are considered the target(s) for your model?
-- What variable(s) are considered to be the features for your model?
-- What variable(s) are neither targets nor features, and should be removed from the input data?
-- Compiling, Training, and Evaluating the Model
-- How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- Were you able to achieve the target model performance?
+Data Preprocessing:
+- The IS_SUCCESSFUL variable was identified as the target varible for the model. This variable determines whether investments were successful.
+- The non beneficial identifier columns, ID and NAME, were dropped to clean up the dataset. The features for the model included all other variables (not including the target variable IS_SUCCESSFUL).
+- For categorical variables with more than 10 unique values, a cutoff point was determined and values were binned to clean up the data. Categorical variables were also one-hot encoded.
+-  For the neural network model 8 neurons, 5 layers, and the relu activation function was selected. ReLU is the most common and simplest activation function, so it was chosen as a starting point. 8 neurons and 5 layers were chosen as a starting point for the model by following the rule of thumb that a basic neural network is to have two to three times the amount of neurons in the hidden layer as the number of inputs.
+
+Preliminary Results:
+The first attempt did not achieve the target model performance of 75%.
+
+First Optimization Attempt:
+- What steps did you take to try and increase model performance?
+
+Second Optimization  Attempt:
+- What steps did you take to try and increase model performance?
+
+Third Optimization  Attempt:
 - What steps did you take to try and increase model performance?
 
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
