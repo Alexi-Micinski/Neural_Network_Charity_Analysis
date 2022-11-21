@@ -1,6 +1,6 @@
 # Neural_Network_Charity_Analysis
 
-## Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 
 The goal of the analysis is to use machine learning and neural networks to predict sucessful investments. The features in the provided dataset are used to create a binary classifier that is capable of predicting whether applicants will be successful if funded. Using TensorFlow, the model will be optimized to achieve a target predictive accuracy higher than 75%.
 
