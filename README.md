@@ -18,7 +18,9 @@ The provided data set contains more than 34,000 organizations that have received
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results:
+
+First, using Pandas and the Scikit-Learn’s StandardScaler(), the dataset was preprocessed in order to compile, train, and evaluate the neural network model later on. Next, using TensorFlow, a neural network, or deep learning model, was designed to create a binary classification model that can predict if an organization will be successful based on the features in the dataset. Then the binary classification model was compiled, trained, and evaluated on it's loss and accuracy. Last, updates to the model's neurons, layers, activation fuctions, and epochs were adjusted in attempt to achieve the target model performance.
 
 Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
