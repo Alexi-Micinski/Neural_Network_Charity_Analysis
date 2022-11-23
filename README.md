@@ -39,7 +39,14 @@ The first attempt did not achieve the target model performance of 75%.
 
 
 First Optimization Attempt:
-- What steps did you take to try and increase model performance?
+- Increased number of neurons and layers. This actually reduced the accuracy of the model to 40%.
+
+<img width="797" alt="Screen Shot 2022-11-23 at 9 17 12 AM" src="https://user-images.githubusercontent.com/106785377/203596573-722a6cf2-56fb-4d27-8454-4a542039038f.png">
+
+<img width="543" alt="Screen Shot 2022-11-23 at 9 17 30 AM" src="https://user-images.githubusercontent.com/106785377/203596586-9f471e0e-8027-4a06-a792-3ba1e9812dab.png">
+
+<img width="565" alt="Screen Shot 2022-11-23 at 9 17 50 AM" src="https://user-images.githubusercontent.com/106785377/203596609-826acb20-fa76-45f3-ac1d-227bd487a917.png">
+
 
 Second Optimization  Attempt:
 - What steps did you take to try and increase model performance?
