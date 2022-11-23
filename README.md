@@ -39,7 +39,7 @@ The first attempt did not achieve the target model performance of 75%.
 
 
 First Optimization Attempt:
-- Increased number of neurons and layers. This actually reduced the accuracy of the model to 40%.
+- Increased number of neurons. This actually reduced the accuracy of the model to 40%.
 
 <img width="797" alt="Screen Shot 2022-11-23 at 9 17 12 AM" src="https://user-images.githubusercontent.com/106785377/203596573-722a6cf2-56fb-4d27-8454-4a542039038f.png">
 
@@ -57,6 +57,11 @@ Second Optimization  Attempt:
 
 
 Third Optimization  Attempt:
-- What steps did you take to try and increase model performance?
+- Added another layer and tweaked the number of neurons raised the accuracy but also doubled the loss.
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+<img width="811" alt="Screen Shot 2022-11-23 at 10 10 21 AM" src="https://user-images.githubusercontent.com/106785377/203607953-fd0650c4-fa68-4eb2-b648-9769ca5bce8f.png">
+
+<img width="569" alt="Screen Shot 2022-11-23 at 10 10 37 AM" src="https://user-images.githubusercontent.com/106785377/203607961-0c57b81b-3557-41fa-b58d-986cf06b9e8d.png">
+
+
+## Summary: The target accuracy for the model was unable to be reached. The closest the optimization steps were able to achieve was 66%. However, the loss was increased with this optimization. A different model like a random forest model may help improve the accuracy.
