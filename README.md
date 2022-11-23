@@ -49,7 +49,12 @@ First Optimization Attempt:
 
 
 Second Optimization  Attempt:
-- What steps did you take to try and increase model performance?
+- Adjusting the number of epochs increased the accuracy to 61.9% but also increased the loss to over 60%.
+
+<img width="554" alt="Screen Shot 2022-11-23 at 9 37 58 AM" src="https://user-images.githubusercontent.com/106785377/203600679-dbdde6c1-8c9d-42cf-a347-ecb302d3c53f.png">
+
+<img width="581" alt="Screen Shot 2022-11-23 at 9 38 11 AM" src="https://user-images.githubusercontent.com/106785377/203600696-4cee9234-624e-4f4f-a6de-8a97fd2bd721.png">
+
 
 Third Optimization  Attempt:
 - What steps did you take to try and increase model performance?
