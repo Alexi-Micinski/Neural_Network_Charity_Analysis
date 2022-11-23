@@ -64,4 +64,5 @@ Third Optimization  Attempt:
 <img width="569" alt="Screen Shot 2022-11-23 at 10 10 37 AM" src="https://user-images.githubusercontent.com/106785377/203607961-0c57b81b-3557-41fa-b58d-986cf06b9e8d.png">
 
 
-## Summary: The target accuracy for the model was unable to be reached. The closest the optimization steps were able to achieve was 66%. However, the loss was increased with this optimization. A different model like a random forest model may help improve the accuracy.
+## Summary: 
+The target accuracy for the model was unable to be reached. The closest the optimization steps were able to achieve was 66%. However, the loss was increased with this optimization. A different model like a random forest model may help improve the accuracy.
