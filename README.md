@@ -31,6 +31,13 @@ Data Preprocessing:
 Preliminary Results:
 The first attempt did not achieve the target model performance of 75%.
 
+<img width="809" alt="Screen Shot 2022-11-20 at 5 50 34 PM" src="https://user-images.githubusercontent.com/106785377/203592652-0e962dd6-4471-407c-bc49-08b26f11269c.png">
+
+<img width="539" alt="Screen Shot 2022-11-20 at 5 50 47 PM" src="https://user-images.githubusercontent.com/106785377/203592677-cbb470fa-cfd9-48ec-a12a-b3a81a4342f9.png">
+
+<img width="612" alt="Screen Shot 2022-11-20 at 5 50 57 PM" src="https://user-images.githubusercontent.com/106785377/203592687-2306f5ed-ca86-45a7-86b6-57ae45b371d6.png">
+
+
 First Optimization Attempt:
 - What steps did you take to try and increase model performance?
 
